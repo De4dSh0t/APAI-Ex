@@ -9,7 +9,7 @@ namespace Stack_Implementation
         {
             //Inicializar:
             //Caso não seja definido previamente um tamanho, a "DJDStack" irá iniciar com um tamanho 6.
-            DJDStack stack = new DJDStack();
+            DJDStack stack = new DJDStack(10);
             
             //Programa
             bool flag = false;
