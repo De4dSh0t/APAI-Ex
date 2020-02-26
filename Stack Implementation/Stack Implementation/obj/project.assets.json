@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\JetBrains Rider\\2. APAI\\2. Trabalhos\\Stack Implementation\\Stack Implementation\\Stack Implementation.csproj",
+      "projectUniqueName": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\JetBrains Rider\\2. APAI\\2. Trabalhos\\APAI-Ex\\Stack Implementation\\Stack Implementation\\Stack Implementation.csproj",
       "projectName": "Stack Implementation",
-      "projectPath": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\JetBrains Rider\\2. APAI\\2. Trabalhos\\Stack Implementation\\Stack Implementation\\Stack Implementation.csproj",
+      "projectPath": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\JetBrains Rider\\2. APAI\\2. Trabalhos\\APAI-Ex\\Stack Implementation\\Stack Implementation\\Stack Implementation.csproj",
       "packagesPath": "C:\\Users\\ruips\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\JetBrains Rider\\2. APAI\\2. Trabalhos\\Stack Implementation\\Stack Implementation\\obj\\",
+      "outputPath": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\JetBrains Rider\\2. APAI\\2. Trabalhos\\APAI-Ex\\Stack Implementation\\Stack Implementation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
