@@ -21,7 +21,7 @@ namespace Stack_Implementation
             stack = new int[size];
         }
 
-        //Função Push
+        //Método Push
         public void Push(int val)
         {
             if(index == stack.Length) Console.WriteLine("Stack is full!");
@@ -32,7 +32,7 @@ namespace Stack_Implementation
             }
         }
         
-        //Função Pop
+        //Método Pop
         public int Pop()
         {
             int currentVal = 0;
@@ -45,7 +45,7 @@ namespace Stack_Implementation
             return currentVal;
         }
         
-        //Função Peek
+        //Método Peek
         public void Peek()
         {
             if(index == 0) Console.WriteLine("Stack is empty!");
