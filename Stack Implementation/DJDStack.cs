@@ -23,11 +23,14 @@ namespace Stack_Implementation
         //Método Push
         public void Push(int val)
         {
-            if(index == stack.Length) Console.WriteLine("Stack is full!");
-            else
+            if(index < stack.Length)
             {
                 stack[index] = val;
                 index++;
+            }
+            else
+            {
+                throw new InvalidOperationException("Stack is full!");
             }
         }
         
@@ -35,11 +38,14 @@ namespace Stack_Implementation
         public int Pop()
         {
             int currentVal = 0;
-            if(index == 0) Console.WriteLine("Stack is empty!");
-            else
+            if(index > 0)
             {
                 index--;
                 currentVal = stack[index];
+            }
+            else
+            {
+                throw new InvalidOperationException("Stack is empty!");
             }
             return currentVal;
         }
@@ -47,14 +53,17 @@ namespace Stack_Implementation
         //Método Peek
         public void Peek()
         {
-            if(index == 0) Console.WriteLine("Stack is empty!");
-            else
+            if(index > 0)
             {
                 Console.WriteLine("Current Values:");
                 for (int i = 0; i < stack.Length; i++)
                 {
                     Console.WriteLine(stack[i]);
                 }
+            }
+            else
+            {
+                throw new InvalidOperationException("Empty Stack!");
             }
         }
     }

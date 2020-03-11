@@ -9,3 +9,14 @@ C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Stack Implementation\o
 C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Stack Implementation\obj\Debug\netcoreapp3.1\Stack Implementation.AssemblyInfo.cs
 C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Stack Implementation\obj\Debug\netcoreapp3.1\Stack Implementation.dll
 C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Stack Implementation\obj\Debug\netcoreapp3.1\Stack Implementation.pdb
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\APAI\2. Trabalhos\APAI-Ex\Stack Implementation\bin\Debug\netcoreapp3.1\Stack Implementation.exe
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\APAI\2. Trabalhos\APAI-Ex\Stack Implementation\bin\Debug\netcoreapp3.1\Stack Implementation.deps.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\APAI\2. Trabalhos\APAI-Ex\Stack Implementation\bin\Debug\netcoreapp3.1\Stack Implementation.runtimeconfig.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\APAI\2. Trabalhos\APAI-Ex\Stack Implementation\bin\Debug\netcoreapp3.1\Stack Implementation.runtimeconfig.dev.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\APAI\2. Trabalhos\APAI-Ex\Stack Implementation\bin\Debug\netcoreapp3.1\Stack Implementation.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\APAI\2. Trabalhos\APAI-Ex\Stack Implementation\bin\Debug\netcoreapp3.1\Stack Implementation.pdb
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\APAI\2. Trabalhos\APAI-Ex\Stack Implementation\obj\Debug\netcoreapp3.1\Stack Implementation.csprojAssemblyReference.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\APAI\2. Trabalhos\APAI-Ex\Stack Implementation\obj\Debug\netcoreapp3.1\Stack Implementation.AssemblyInfoInputs.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\APAI\2. Trabalhos\APAI-Ex\Stack Implementation\obj\Debug\netcoreapp3.1\Stack Implementation.AssemblyInfo.cs
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\APAI\2. Trabalhos\APAI-Ex\Stack Implementation\obj\Debug\netcoreapp3.1\Stack Implementation.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\APAI\2. Trabalhos\APAI-Ex\Stack Implementation\obj\Debug\netcoreapp3.1\Stack Implementation.pdb

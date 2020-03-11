@@ -31,17 +31,38 @@ namespace Stack_Implementation
                     Console.Write("Insert value to push: ");
                     string val = Console.ReadLine();
                     int n;
-                    if (int.TryParse(val, out n)) stack.Push(n);
-                    else Console.WriteLine("Invalid input!");
+                    try
+                    {
+                        if (int.TryParse(val, out n)) stack.Push(n);
+                    }
+                    catch (InvalidOperationException e)
+                    {
+                        Console.WriteLine(e.Message);
+                    }
+                    //else Console.WriteLine("Invalid input!");
                 }
                 if (info.KeyChar == '2')
                 {
-                    int popVal = stack.Pop();
-                    Console.WriteLine("You removed the value " + popVal);
+                    try
+                    {
+                        int popVal = stack.Pop();
+                        Console.WriteLine("You removed the value " + popVal);
+                    }
+                    catch (InvalidOperationException e)
+                    {
+                        Console.WriteLine(e.Message);
+                    }
                 }
                 if (info.KeyChar == '3')
                 {
-                    stack.Peek();
+                    try
+                    {
+                        stack.Peek();
+                    }
+                    catch (InvalidOperationException e)
+                    {
+                        Console.WriteLine(e.Message);
+                    }
                 }
                 if (info.KeyChar == '0')
                 {
