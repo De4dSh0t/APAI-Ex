@@ -48,7 +48,7 @@ namespace Queue_Implementation
         //Método Peek()
         public int Peek()
         {
-            if (index >= 0)
+            if (index > 0)
             {
                 return queue[--index];
             }
