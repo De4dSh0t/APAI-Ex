@@ -69,9 +69,11 @@ namespace Queue_Implementation
         //Método Peek()
         public int Peek()
         {
+            int next = removeI + 1;
+
             if (index > 0)
             {
-                return queue[--index];
+                return queue[next];
             }
 
             return 0;
