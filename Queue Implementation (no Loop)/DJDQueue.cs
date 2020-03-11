@@ -47,7 +47,7 @@ namespace Queue_Implementation
             {
                 if(removeI != index-1) //Faz com que o "removeI" deixe de "avançar" até que o "index" avançe
                 {
-                    if(removeI <= queue.Length-1)
+                    if(removeI < queue.Length-1)
                     {
                         return queue[++removeI];
                     }
