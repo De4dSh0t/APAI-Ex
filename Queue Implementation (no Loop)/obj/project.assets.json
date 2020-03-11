@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Queue Implementation\\Queue Implementation.csproj",
+      "projectUniqueName": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Visual Studio Code\\APAI\\2. Trabalhos\\APAI-Ex\\Queue Implementation (no Loop)\\Queue Implementation.csproj",
       "projectName": "Queue Implementation",
-      "projectPath": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Queue Implementation\\Queue Implementation.csproj",
+      "projectPath": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Visual Studio Code\\APAI\\2. Trabalhos\\APAI-Ex\\Queue Implementation (no Loop)\\Queue Implementation.csproj",
       "packagesPath": "C:\\Users\\ruips\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Queue Implementation\\obj\\",
+      "outputPath": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Visual Studio Code\\APAI\\2. Trabalhos\\APAI-Ex\\Queue Implementation (no Loop)\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

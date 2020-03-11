@@ -9,3 +9,14 @@ C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Queue Implementation\o
 C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Queue Implementation\obj\Debug\netcoreapp3.1\Queue Implementation.AssemblyInfo.cs
 C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Queue Implementation\obj\Debug\netcoreapp3.1\Queue Implementation.dll
 C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Queue Implementation\obj\Debug\netcoreapp3.1\Queue Implementation.pdb
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\APAI\2. Trabalhos\APAI-Ex\Queue Implementation (no Loop)\bin\Debug\netcoreapp3.1\Queue Implementation.exe
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\APAI\2. Trabalhos\APAI-Ex\Queue Implementation (no Loop)\bin\Debug\netcoreapp3.1\Queue Implementation.deps.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\APAI\2. Trabalhos\APAI-Ex\Queue Implementation (no Loop)\bin\Debug\netcoreapp3.1\Queue Implementation.runtimeconfig.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\APAI\2. Trabalhos\APAI-Ex\Queue Implementation (no Loop)\bin\Debug\netcoreapp3.1\Queue Implementation.runtimeconfig.dev.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\APAI\2. Trabalhos\APAI-Ex\Queue Implementation (no Loop)\bin\Debug\netcoreapp3.1\Queue Implementation.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\APAI\2. Trabalhos\APAI-Ex\Queue Implementation (no Loop)\bin\Debug\netcoreapp3.1\Queue Implementation.pdb
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\APAI\2. Trabalhos\APAI-Ex\Queue Implementation (no Loop)\obj\Debug\netcoreapp3.1\Queue Implementation.csprojAssemblyReference.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\APAI\2. Trabalhos\APAI-Ex\Queue Implementation (no Loop)\obj\Debug\netcoreapp3.1\Queue Implementation.AssemblyInfoInputs.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\APAI\2. Trabalhos\APAI-Ex\Queue Implementation (no Loop)\obj\Debug\netcoreapp3.1\Queue Implementation.AssemblyInfo.cs
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\APAI\2. Trabalhos\APAI-Ex\Queue Implementation (no Loop)\obj\Debug\netcoreapp3.1\Queue Implementation.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\APAI\2. Trabalhos\APAI-Ex\Queue Implementation (no Loop)\obj\Debug\netcoreapp3.1\Queue Implementation.pdb

@@ -1,9 +1,12 @@
+using System;
+
 namespace Queue_Implementation
 {
     public class DJDQueue
     {
         private int[] queue;
         private int index = 0;
+        private int removeI = -1; //Indica o valor da posição da Queue na qual irá remover o primeiro elemento
 
         //Construtor 1
         public DJDQueue()
@@ -20,26 +23,44 @@ namespace Queue_Implementation
         //Método Enqueue()
         public void Enqueue(int n)
         {
-            if (index < queue.Length)
+            if(index != removeI) //Serve para simular o limite do Queue. Caso o index seja igual ao 'removeI', então o 'Enqueu' para.
             {
-                queue[index++] = n;
+                if (index < queue.Length)
+                {
+                    queue[index++] = n;
+                }
+                else if(index == queue.Length)
+                {
+                    index = 0;
+                }
+            }
+            else
+            {
+                Console.WriteLine("Queue is full! Please 'Dequeue' to be able to add more to the queue.");
             }
         }
 
         //Método Dequeue()
         public int Dequeue()
         {
-            int first = queue[0]; //Indica o valor da primeira posição da Queue
             if (index >= 0)
             {
-                //Mover os outros valores de forma a que o "Dequeue()" retire o primeiro valor
-                for (int i = 0; i < queue.Length - 1; i++)
+                if(removeI != index-1) //Faz com que o "removeI" deixe de "avançar" até que o "index" avançe
                 {
-                    queue[i] = queue[i + 1];
+                    if(removeI <= queue.Length-1)
+                    {
+                        return queue[++removeI];
+                    }
+                    else if(removeI > queue.Length-1)
+                    {
+                        removeI = -1;
+                        return queue[++removeI];
+                    }
                 }
-
-                --index;
-                return first;
+                else
+                {
+                    Console.WriteLine("Seems like you didn't 'Enqueue' another value!");
+                }
             }
 
             return 0;
