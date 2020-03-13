@@ -34,19 +34,19 @@ namespace Stack_Genérica
 
         public T Pop()
         {
-            return stack[index--];
-        }
-
-        public T Peek()
-        {
             if(index >= 0)
             {
-                return stack[index];
+                return stack[index--];
             }
             else
             {
                 throw new InvalidOperationException();
             }
+        }
+
+        public T Peek()
+        {
+            return stack[index];
         }
 
         public int Lenght()
