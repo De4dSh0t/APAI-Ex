@@ -6,7 +6,13 @@ namespace Stack_Genérica
     {
         T[] stack;
         private int index = -1;
-        private int size;
+        public int size;
+
+        //public int Size
+        //{
+        //    get { return size; }
+        //    set { size = value; }
+        //}
 
         public DJDStack()
         {
@@ -23,10 +29,10 @@ namespace Stack_Genérica
         public void Push(T n) //Insere um valor "n" na "Stack"
         {
             //Aumenta o tamanho da "Stack" para o dobro, caso o index alcançe o fim
-            if(index == size)
+            if(index == size - 1)
             {
                 Array.Resize(ref stack, 2*size);
-                size = 2*size;
+                size = 2*size; //Atualizo o valor de size para o novo valor
             }
 
             stack[++index] = n;
@@ -60,7 +66,7 @@ namespace Stack_Genérica
         {
             if(index >= 0)
             {
-                return index;
+                return index + 1;
             }
             else
             {

@@ -1,0 +1,8 @@
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\APAI\2. Trabalhos\APAI-Ex\Stack Genérica\Stack Genérica\bin\Debug\netcoreapp3.1\Stack Genérica.deps.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\APAI\2. Trabalhos\APAI-Ex\Stack Genérica\Stack Genérica\bin\Debug\netcoreapp3.1\Stack Genérica.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\APAI\2. Trabalhos\APAI-Ex\Stack Genérica\Stack Genérica\bin\Debug\netcoreapp3.1\Stack Genérica.pdb
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\APAI\2. Trabalhos\APAI-Ex\Stack Genérica\Stack Genérica\obj\Debug\netcoreapp3.1\Stack Genérica.csprojAssemblyReference.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\APAI\2. Trabalhos\APAI-Ex\Stack Genérica\Stack Genérica\obj\Debug\netcoreapp3.1\Stack Genérica.AssemblyInfoInputs.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\APAI\2. Trabalhos\APAI-Ex\Stack Genérica\Stack Genérica\obj\Debug\netcoreapp3.1\Stack Genérica.AssemblyInfo.cs
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\APAI\2. Trabalhos\APAI-Ex\Stack Genérica\Stack Genérica\obj\Debug\netcoreapp3.1\Stack Genérica.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\APAI\2. Trabalhos\APAI-Ex\Stack Genérica\Stack Genérica\obj\Debug\netcoreapp3.1\Stack Genérica.pdb
