@@ -20,7 +20,7 @@ namespace Stack_Genérica
             stack = new T[size];
         }
 
-        public void Push(T n)
+        public void Push(T n) //Insere um valor "n" na "Stack"
         {
             //Aumenta o tamanho da "Stack" para o dobro, caso o index alcançe o fim
             if(index == size)
@@ -32,7 +32,7 @@ namespace Stack_Genérica
             stack[++index] = n;
         }
 
-        public T Pop()
+        public T Pop() //Remove o último elemento da "Stack" (LIFO)
         {
             if(index >= 0)
             {
@@ -40,21 +40,35 @@ namespace Stack_Genérica
             }
             else
             {
-                throw new InvalidOperationException();
+                throw new InvalidOperationException("Stack is empty!");
             }
         }
 
-        public T Peek()
+        public T Peek() //Apresenta o último elemento inserido
         {
-            return stack[index];
+            if(index >= 0)
+            {
+                return stack[index];
+            }
+            else
+            {
+                throw new InvalidOperationException("Stack is empty!");
+            }
         }
 
-        public int Lenght()
+        public int Lenght() //Diz o nº de elementos em uso na "Stack"
         {
-            return index;
+            if(index >= 0)
+            {
+                return index;
+            }
+            else
+            {
+                throw new InvalidOperationException("Stack is empty!");
+            }
         }
 
-        public int Capacity()
+        public int Capacity() //Diz o tamanho total da "Stack"
         {
             return size;
         }
