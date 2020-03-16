@@ -3,7 +3,7 @@ using Queue_Genérica;
 
 namespace Queue_Genérica.UnitTests
 {
-    public class Tests
+    public class DJDQueueTests
     {
         [Test]
         public void Test1()
