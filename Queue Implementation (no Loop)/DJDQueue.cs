@@ -29,7 +29,7 @@ namespace Queue_Implementation
                 {
                     queue[index++] = n;
                 }
-                else if(index == queue.Length)
+                else if(index == queue.Length-1)
                 {
                     index = 0;
                 }
