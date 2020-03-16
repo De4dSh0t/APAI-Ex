@@ -26,25 +26,32 @@ namespace Queue_Genérica
             {
                 throw new InvalidOperationException("Queue is full!");
             }
-            else if (addI <= queue.Length-1)
+            
+            if(addI == queue.Length - 1)
+            {
+                addI = 0;
+                queue[addI] = n;
+            }
+            else
             {
                 queue[++addI] = n;
-            }
-            else if()
-            {
-                
             }
         }
 
         public T Dequeue()
         {
-            if (removeI <= queue.Length - 1)
-            { 
+            if (addI < 0)
+            {
+                throw new InvalidOperationException("Queue is empty!");
+            }
+
+            if (removeI == queue.Length - 1)
+            {
+                removeI = 0;
                 return queue[removeI++];
             }
             else
             {
-                removeI = 0;
                 return queue[removeI++];
             }
         }
