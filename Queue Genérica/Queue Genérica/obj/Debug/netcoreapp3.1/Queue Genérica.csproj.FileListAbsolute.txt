@@ -1,0 +1,8 @@
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Universidade\Jetbrains Rider\APAI\2. Trabalhos\APAI-Ex\Queue Genérica\Queue Genérica\bin\Debug\netcoreapp3.1\Queue Genérica.deps.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Universidade\Jetbrains Rider\APAI\2. Trabalhos\APAI-Ex\Queue Genérica\Queue Genérica\bin\Debug\netcoreapp3.1\Queue Genérica.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Universidade\Jetbrains Rider\APAI\2. Trabalhos\APAI-Ex\Queue Genérica\Queue Genérica\bin\Debug\netcoreapp3.1\Queue Genérica.pdb
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Universidade\Jetbrains Rider\APAI\2. Trabalhos\APAI-Ex\Queue Genérica\Queue Genérica\obj\Debug\netcoreapp3.1\Queue Genérica.csprojAssemblyReference.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Universidade\Jetbrains Rider\APAI\2. Trabalhos\APAI-Ex\Queue Genérica\Queue Genérica\obj\Debug\netcoreapp3.1\Queue Genérica.AssemblyInfoInputs.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Universidade\Jetbrains Rider\APAI\2. Trabalhos\APAI-Ex\Queue Genérica\Queue Genérica\obj\Debug\netcoreapp3.1\Queue Genérica.AssemblyInfo.cs
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Universidade\Jetbrains Rider\APAI\2. Trabalhos\APAI-Ex\Queue Genérica\Queue Genérica\obj\Debug\netcoreapp3.1\Queue Genérica.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Universidade\Jetbrains Rider\APAI\2. Trabalhos\APAI-Ex\Queue Genérica\Queue Genérica\obj\Debug\netcoreapp3.1\Queue Genérica.pdb
