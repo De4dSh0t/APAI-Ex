@@ -17,7 +17,11 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "projectReferences": {}
+        "projectReferences": {
+          "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Universidade\\Jetbrains Rider\\APAI\\2. Trabalhos\\APAI-Ex\\Queue Genérica\\Queue Genérica\\Queue Genérica.csproj": {
+            "projectPath": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Universidade\\Jetbrains Rider\\APAI\\2. Trabalhos\\APAI-Ex\\Queue Genérica\\Queue Genérica\\Queue Genérica.csproj"
+          }
+        }
       }
     },
     "warningProperties": {

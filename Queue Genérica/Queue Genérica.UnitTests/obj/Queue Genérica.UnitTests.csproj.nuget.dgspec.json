@@ -27,7 +27,11 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Universidade\\Jetbrains Rider\\APAI\\2. Trabalhos\\APAI-Ex\\Queue Genérica\\Queue Genérica\\Queue Genérica.csproj": {
+                "projectPath": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Universidade\\Jetbrains Rider\\APAI\\2. Trabalhos\\APAI-Ex\\Queue Genérica\\Queue Genérica\\Queue Genérica.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -52,6 +56,59 @@
               "version": "[3.12.0, )"
             }
           },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Universidade\\Jetbrains Rider\\APAI\\2. Trabalhos\\APAI-Ex\\Queue Genérica\\Queue Genérica\\Queue Genérica.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Universidade\\Jetbrains Rider\\APAI\\2. Trabalhos\\APAI-Ex\\Queue Genérica\\Queue Genérica\\Queue Genérica.csproj",
+        "projectName": "Queue Genérica",
+        "projectPath": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Universidade\\Jetbrains Rider\\APAI\\2. Trabalhos\\APAI-Ex\\Queue Genérica\\Queue Genérica\\Queue Genérica.csproj",
+        "packagesPath": "C:\\Users\\ruips\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Universidade\\Jetbrains Rider\\APAI\\2. Trabalhos\\APAI-Ex\\Queue Genérica\\Queue Genérica\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ruips\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
           "imports": [
             "net461",
             "net462",

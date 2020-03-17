@@ -1225,6 +1225,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "Queue Genérica/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Queue Genérica.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Queue Genérica.dll": {}
+        }
       }
     }
   },
@@ -4568,12 +4578,18 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "Queue Genérica/1.0.0": {
+      "type": "project",
+      "path": "../Queue Genérica/Queue Genérica.csproj",
+      "msbuildProject": "../Queue Genérica/Queue Genérica.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Microsoft.NET.Test.Sdk >= 16.4.0",
       "NUnit3TestAdapter >= 3.15.1",
+      "Queue Genérica >= 1.0.0",
       "nunit >= 3.12.0"
     ]
   },
@@ -4604,7 +4620,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Universidade\\Jetbrains Rider\\APAI\\2. Trabalhos\\APAI-Ex\\Queue Genérica\\Queue Genérica\\Queue Genérica.csproj": {
+              "projectPath": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Universidade\\Jetbrains Rider\\APAI\\2. Trabalhos\\APAI-Ex\\Queue Genérica\\Queue Genérica\\Queue Genérica.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
