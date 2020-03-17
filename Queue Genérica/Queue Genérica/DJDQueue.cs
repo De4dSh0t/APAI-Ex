@@ -1,14 +1,15 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 using System.Reflection.Metadata.Ecma335;
+using System.Transactions;
 
 namespace Queue_Genérica
 {
     public class DJDQueue<T>
     {
         private T[] queue;
-        private int addI = -1; //Index para Adicionar (Enqueue)
-        private int removeI = 0; //Index para Remover (Dequeue)
+        private int frontI = -1; //Index da parte frontal da Queue (onde removemos os valores)
+        private int rearI = -1; //Index da parte traseira da Queue (onde adicionamos os valores)
 
         public DJDQueue()
         {
@@ -22,43 +23,62 @@ namespace Queue_Genérica
 
         public void Enqueue(T n)
         {
-            if ((addI == queue.Length-1 && removeI == 0) || addI == removeI)
+            if ((frontI == 0 && rearI == queue.Length-1) || frontI == rearI - 1) //Determina se a 'queue' está cheia.
             {
                 throw new InvalidOperationException("Queue is full!");
             }
-            
-            if(addI == queue.Length - 1)
-            {
-                addI = 0;
-                queue[addI] = n;
-            }
             else
             {
-                queue[++addI] = n;
+                if (frontI == -1 && rearI == -1) //Caso queiramos colocar um valor, os dois indexs incrementam (quando estão ambos na posição -1).
+                {
+                    frontI++;
+                    rearI++;
+                }
+                else if(rearI == queue.Length - 1) //Serve para limitar o avanço do 'rearI'. Caso chegue ao limite, a sua posição volta a 0.
+                {
+                    rearI = 0;
+                }
+                else //Se nenhuma das condições anteriores forem verdadeiras, o 'rearI' incrementa.
+                {
+                    rearI++;
+                }
+
+                queue[rearI] = n;
             }
         }
 
         public T Dequeue()
         {
-            if (addI < 0)
+            if (frontI == -1) //Determina se a 'queue' está vazia. Igualo a -1 pois, no 'Enqueue', quando colocamos um valor na 'queue' pela primeira vez, os dois indexs igualam a 0.
             {
                 throw new InvalidOperationException("Queue is empty!");
             }
 
-            if (removeI == queue.Length - 1)
+            if (frontI == rearI) //Indica quando removemos o último valor da 'queue'.
             {
-                removeI = 0;
-                return queue[removeI++];
+                frontI = -1;
+                rearI = -1;
             }
-            else
+            else if (frontI == queue.Length - 1) //Faz com que, caso o 'frontI' chegue ao limite da 'queue', seja reposto para a posição 0.
             {
-                return queue[removeI++];
+                frontI = 0;
             }
+            else //Caso nenhuma das condições anteriores sejam verdadeiras, faz com que o 'frontI' incremente.
+            {
+                frontI++;
+            }
+
+            return queue[frontI];
         }
 
         public T Peek()
         {
-            return queue[removeI];
+            if (frontI < 0)
+            {
+                throw new InvalidOperationException("Queue is empty!");
+            }
+            
+            return queue[rearI];
         }
 
         public int Length()
