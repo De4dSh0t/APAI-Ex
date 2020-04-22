@@ -1,0 +1,22 @@
+<inventory>
+    <item>
+        <name>Healing Potion</name>
+        <weight>2</weight>
+        <quantity>10</quantity>
+    </item>
+    <item>
+        <name>Mana Potion</name>
+        <weight>2</weight>
+        <quantity>15</quantity>
+    </item>
+    <item>
+        <name>Lockpick</name>
+        <weight>3</weight>
+        <quantity>20</quantity>
+    </item>
+    <item>
+        <name>Soul Husk</name>
+        <weight>1</weight>
+        <quantity>5</quantity>
+    </item>
+</inventory>
