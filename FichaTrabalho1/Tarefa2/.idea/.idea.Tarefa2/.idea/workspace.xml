@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="19b4b0c4-d57a-439c-b129-4b2435ccb2d1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Tarefa2/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Tarefa2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Tarefa2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarefa2.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarefa2/Inventory.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarefa2/InventoryItem.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarefa2/Parser.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarefa2/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarefa2/ReadXML.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarefa2/Tarefa2.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarefa2/obj/Debug/netcoreapp3.1/Tarefa2.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarefa2/obj/Debug/netcoreapp3.1/Tarefa2.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarefa2/obj/Debug/netcoreapp3.1/Tarefa2.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarefa2/obj/Debug/netcoreapp3.1/Tarefa2.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarefa2/obj/Tarefa2.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarefa2/obj/Tarefa2.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarefa2/obj/Tarefa2.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarefa2/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarefa2/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarefa2/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarefa1/.idea/.idea.Tarefa1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tarefa1/.idea/.idea.Tarefa1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Stack Implementation/obj/Debug/netcoreapp3.1/Stack Implementation.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Stack Implementation/obj/Debug/netcoreapp3.1/Stack Implementation.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Stack Implementation/obj/Debug/netcoreapp3.1/Stack Implementation.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Stack Implementation/obj/Debug/netcoreapp3.1/Stack Implementation.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Stack Implementation/obj/Stack Implementation.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Stack Implementation/obj/Stack Implementation.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Stack Implementation/obj/Stack Implementation.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Stack Implementation/obj/Stack Implementation.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Stack Implementation/obj/Stack Implementation.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../../Stack Implementation/obj/Stack Implementation.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Stack Implementation/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Stack Implementation/obj/project.assets.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Tarefa2/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tarefa2/Inventory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tarefa2/InventoryItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tarefa2/Parser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/246A3076-7B6D-4910-BC0C-E8A4EF4669FE/236/XmlSerializer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tarefa2/ReadXML.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Tarefa2/InventoryItem.cs" />
+        <option value="$PROJECT_DIR$/Tarefa2/Inventory.cs" />
+        <option value="$PROJECT_DIR$/Tarefa2/Parser.cs" />
+        <option value="$PROJECT_DIR$/Tarefa2/Program.cs" />
+        <option value="$PROJECT_DIR$/Tarefa2/ReadXML.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1atR3G9m9I4VSEiGyaXkmcSP9Ua" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="ReSpellerSettingsId" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Tarefa2" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Tarefa2/Tarefa2.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19b4b0c4-d57a-439c-b129-4b2435ccb2d1" name="Default Changelist" comment="" />
+      <created>1587552702615</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587552702615</updated>
+      <workItem from="1587552706864" duration="5837000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1431" height="224" key="GridCell.Tab.0.bottom" timestamp="1587560516821">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="224" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1587560516821" />
+    <state width="1431" height="224" key="GridCell.Tab.0.center" timestamp="1587560516821">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="224" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1587560516821" />
+    <state width="1431" height="224" key="GridCell.Tab.0.left" timestamp="1587560516821">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="224" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1587560516821" />
+    <state width="1431" height="224" key="GridCell.Tab.0.right" timestamp="1587560516821">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="224" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1587560516821" />
+    <state width="1431" height="304" key="GridCell.Tab.1.bottom" timestamp="1587555424121">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="304" key="GridCell.Tab.1.bottom/62.0.1474.864@62.0.1474.864" timestamp="1587555424121" />
+    <state width="1431" height="304" key="GridCell.Tab.1.center" timestamp="1587555424121">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="304" key="GridCell.Tab.1.center/62.0.1474.864@62.0.1474.864" timestamp="1587555424121" />
+    <state width="1431" height="304" key="GridCell.Tab.1.left" timestamp="1587555424121">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="304" key="GridCell.Tab.1.left/62.0.1474.864@62.0.1474.864" timestamp="1587555424121" />
+    <state width="1431" height="304" key="GridCell.Tab.1.right" timestamp="1587555424121">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="304" key="GridCell.Tab.1.right/62.0.1474.864@62.0.1474.864" timestamp="1587555424121" />
+    <state width="1431" height="304" key="GridCell.Tab.2.bottom" timestamp="1587555424121">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="304" key="GridCell.Tab.2.bottom/62.0.1474.864@62.0.1474.864" timestamp="1587555424121" />
+    <state width="1431" height="304" key="GridCell.Tab.2.center" timestamp="1587555424121">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="304" key="GridCell.Tab.2.center/62.0.1474.864@62.0.1474.864" timestamp="1587555424121" />
+    <state width="1431" height="304" key="GridCell.Tab.2.left" timestamp="1587555424121">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="304" key="GridCell.Tab.2.left/62.0.1474.864@62.0.1474.864" timestamp="1587555424121" />
+    <state width="1431" height="304" key="GridCell.Tab.2.right" timestamp="1587555424121">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="304" key="GridCell.Tab.2.right/62.0.1474.864@62.0.1474.864" timestamp="1587555424121" />
+    <state width="1431" height="304" key="GridCell.Tab.3.bottom" timestamp="1587555424122">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="304" key="GridCell.Tab.3.bottom/62.0.1474.864@62.0.1474.864" timestamp="1587555424122" />
+    <state width="1431" height="304" key="GridCell.Tab.3.center" timestamp="1587555424122">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="304" key="GridCell.Tab.3.center/62.0.1474.864@62.0.1474.864" timestamp="1587555424122" />
+    <state width="1431" height="304" key="GridCell.Tab.3.left" timestamp="1587555424121">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="304" key="GridCell.Tab.3.left/62.0.1474.864@62.0.1474.864" timestamp="1587555424121" />
+    <state width="1431" height="304" key="GridCell.Tab.3.right" timestamp="1587555424122">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="304" key="GridCell.Tab.3.right/62.0.1474.864@62.0.1474.864" timestamp="1587555424122" />
+    <state width="1431" height="304" key="GridCell.Tab.4.bottom" timestamp="1587555424123">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="304" key="GridCell.Tab.4.bottom/62.0.1474.864@62.0.1474.864" timestamp="1587555424123" />
+    <state width="1431" height="304" key="GridCell.Tab.4.center" timestamp="1587555424123">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="304" key="GridCell.Tab.4.center/62.0.1474.864@62.0.1474.864" timestamp="1587555424123" />
+    <state width="1431" height="304" key="GridCell.Tab.4.left" timestamp="1587555424122">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="304" key="GridCell.Tab.4.left/62.0.1474.864@62.0.1474.864" timestamp="1587555424122" />
+    <state width="1431" height="304" key="GridCell.Tab.4.right" timestamp="1587555424123">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="304" key="GridCell.Tab.4.right/62.0.1474.864@62.0.1474.864" timestamp="1587555424123" />
+    <state x="392" y="164" key="Rider.ProjectTemplateDialog.Size" timestamp="1587552702799">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="392" y="164" key="Rider.ProjectTemplateDialog.Size/62.0.1474.864@62.0.1474.864" timestamp="1587552702799" />
+    <state width="744" height="439" key="XDebugger.FullValuePopup" timestamp="1587555416811">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="744" height="439" key="XDebugger.FullValuePopup/62.0.1474.864@62.0.1474.864" timestamp="1587555416811" />
+  </component>
+</project>
