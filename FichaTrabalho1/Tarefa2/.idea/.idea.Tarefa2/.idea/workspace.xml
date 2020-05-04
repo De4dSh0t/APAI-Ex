@@ -43,11 +43,6 @@
       <change afterPath="$PROJECT_DIR$/../Tarefa3/Tarefa3/obj/project.nuget.cache" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Tarefa3/Tarefa3/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Tarefa1/.idea/.idea.Tarefa1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tarefa1/.idea/.idea.Tarefa1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Tarefa2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Tarefa2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tarefa2/Inventory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tarefa2/Inventory.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tarefa2/InventoryItem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tarefa2/InventoryItem.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tarefa2/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tarefa2/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tarefa2/ReadXML.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tarefa2/ReadXML.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Stack Implementation/obj/Debug/netcoreapp3.1/Stack Implementation.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Stack Implementation/obj/Debug/netcoreapp3.1/Stack Implementation.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Stack Implementation/obj/Debug/netcoreapp3.1/Stack Implementation.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Stack Implementation/obj/Debug/netcoreapp3.1/Stack Implementation.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Stack Implementation/obj/Stack Implementation.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Stack Implementation/obj/Stack Implementation.csproj.nuget.cache" afterDir="false" />
@@ -129,7 +124,7 @@
       <option name="presentableId" value="Default" />
       <updated>1587552702615</updated>
       <workItem from="1587552706864" duration="7180000" />
-      <workItem from="1587563957748" duration="2338000" />
+      <workItem from="1587563957748" duration="2503000" />
     </task>
     <task id="LOCAL-00001" summary="T2 v0.1 (Added class &quot;Inventory&quot;, &quot;InventoryItem&quot; and &quot;ReadXML&quot;)">
       <created>1587561712179</created>
@@ -138,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587561712179</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="T2 v1.0 (Updated &quot;ReadXML&quot;, &quot;Inventory&quot; and &quot;InventoryItem&quot;)">
+      <created>1587566426287</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587566426287</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,119 +163,101 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="T2 v0.1 (Added class &quot;Inventory&quot;, &quot;InventoryItem&quot; and &quot;ReadXML&quot;)" />
-    <option name="LAST_COMMIT_MESSAGE" value="T2 v0.1 (Added class &quot;Inventory&quot;, &quot;InventoryItem&quot; and &quot;ReadXML&quot;)" />
+    <MESSAGE value="T2 v1.0 (Updated &quot;ReadXML&quot;, &quot;Inventory&quot; and &quot;InventoryItem&quot;)" />
+    <option name="LAST_COMMIT_MESSAGE" value="T2 v1.0 (Updated &quot;ReadXML&quot;, &quot;Inventory&quot; and &quot;InventoryItem&quot;)" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1431" height="224" key="GridCell.Tab.0.bottom" timestamp="1587566282887">
+    <state width="1431" height="304" key="GridCell.Tab.0.bottom" timestamp="1587566462277">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="224" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1587566282887" />
-    <state width="1431" height="224" key="GridCell.Tab.0.center" timestamp="1587566282887">
+    <state width="1431" height="304" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1587566462277" />
+    <state width="1431" height="304" key="GridCell.Tab.0.center" timestamp="1587566462277">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="224" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1587566282887" />
-    <state width="1431" height="224" key="GridCell.Tab.0.left" timestamp="1587566282886">
+    <state width="1431" height="304" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1587566462277" />
+    <state width="1431" height="304" key="GridCell.Tab.0.left" timestamp="1587566462277">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="224" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1587566282886" />
-    <state width="1431" height="224" key="GridCell.Tab.0.right" timestamp="1587566282887">
+    <state width="1431" height="304" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1587566462277" />
+    <state width="1431" height="304" key="GridCell.Tab.0.right" timestamp="1587566462277">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="224" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1587566282887" />
-    <state width="1431" height="304" key="GridCell.Tab.1.bottom" timestamp="1587566243565">
+    <state width="1431" height="304" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1587566462277" />
+    <state width="1431" height="304" key="GridCell.Tab.1.bottom" timestamp="1587566462277">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="304" key="GridCell.Tab.1.bottom/62.0.1474.864@62.0.1474.864" timestamp="1587566243565" />
-    <state width="1431" height="304" key="GridCell.Tab.1.center" timestamp="1587566243565">
+    <state width="1431" height="304" key="GridCell.Tab.1.bottom/62.0.1474.864@62.0.1474.864" timestamp="1587566462277" />
+    <state width="1431" height="304" key="GridCell.Tab.1.center" timestamp="1587566462277">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="304" key="GridCell.Tab.1.center/62.0.1474.864@62.0.1474.864" timestamp="1587566243565" />
-    <state width="1431" height="304" key="GridCell.Tab.1.left" timestamp="1587566243564">
+    <state width="1431" height="304" key="GridCell.Tab.1.center/62.0.1474.864@62.0.1474.864" timestamp="1587566462277" />
+    <state width="1431" height="304" key="GridCell.Tab.1.left" timestamp="1587566462277">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="304" key="GridCell.Tab.1.left/62.0.1474.864@62.0.1474.864" timestamp="1587566243564" />
-    <state width="1431" height="304" key="GridCell.Tab.1.right" timestamp="1587566243565">
+    <state width="1431" height="304" key="GridCell.Tab.1.left/62.0.1474.864@62.0.1474.864" timestamp="1587566462277" />
+    <state width="1431" height="304" key="GridCell.Tab.1.right" timestamp="1587566462277">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="304" key="GridCell.Tab.1.right/62.0.1474.864@62.0.1474.864" timestamp="1587566243565" />
-    <state width="1431" height="304" key="GridCell.Tab.2.bottom" timestamp="1587566243565">
+    <state width="1431" height="304" key="GridCell.Tab.1.right/62.0.1474.864@62.0.1474.864" timestamp="1587566462277" />
+    <state width="1431" height="304" key="GridCell.Tab.2.bottom" timestamp="1587566462278">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="304" key="GridCell.Tab.2.bottom/62.0.1474.864@62.0.1474.864" timestamp="1587566243565" />
-    <state width="1431" height="304" key="GridCell.Tab.2.center" timestamp="1587566243565">
+    <state width="1431" height="304" key="GridCell.Tab.2.bottom/62.0.1474.864@62.0.1474.864" timestamp="1587566462278" />
+    <state width="1431" height="304" key="GridCell.Tab.2.center" timestamp="1587566462278">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="304" key="GridCell.Tab.2.center/62.0.1474.864@62.0.1474.864" timestamp="1587566243565" />
-    <state width="1431" height="304" key="GridCell.Tab.2.left" timestamp="1587566243565">
+    <state width="1431" height="304" key="GridCell.Tab.2.center/62.0.1474.864@62.0.1474.864" timestamp="1587566462278" />
+    <state width="1431" height="304" key="GridCell.Tab.2.left" timestamp="1587566462278">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="304" key="GridCell.Tab.2.left/62.0.1474.864@62.0.1474.864" timestamp="1587566243565" />
-    <state width="1431" height="304" key="GridCell.Tab.2.right" timestamp="1587566243565">
+    <state width="1431" height="304" key="GridCell.Tab.2.left/62.0.1474.864@62.0.1474.864" timestamp="1587566462278" />
+    <state width="1431" height="304" key="GridCell.Tab.2.right" timestamp="1587566462278">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="304" key="GridCell.Tab.2.right/62.0.1474.864@62.0.1474.864" timestamp="1587566243565" />
-    <state width="1431" height="304" key="GridCell.Tab.3.bottom" timestamp="1587566243566">
+    <state width="1431" height="304" key="GridCell.Tab.2.right/62.0.1474.864@62.0.1474.864" timestamp="1587566462278" />
+    <state width="1431" height="304" key="GridCell.Tab.3.bottom" timestamp="1587566462278">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="304" key="GridCell.Tab.3.bottom/62.0.1474.864@62.0.1474.864" timestamp="1587566243566" />
-    <state width="1431" height="304" key="GridCell.Tab.3.center" timestamp="1587566243565">
+    <state width="1431" height="304" key="GridCell.Tab.3.bottom/62.0.1474.864@62.0.1474.864" timestamp="1587566462278" />
+    <state width="1431" height="304" key="GridCell.Tab.3.center" timestamp="1587566462278">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="304" key="GridCell.Tab.3.center/62.0.1474.864@62.0.1474.864" timestamp="1587566243565" />
-    <state width="1431" height="304" key="GridCell.Tab.3.left" timestamp="1587566243565">
+    <state width="1431" height="304" key="GridCell.Tab.3.center/62.0.1474.864@62.0.1474.864" timestamp="1587566462278" />
+    <state width="1431" height="304" key="GridCell.Tab.3.left" timestamp="1587566462278">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="304" key="GridCell.Tab.3.left/62.0.1474.864@62.0.1474.864" timestamp="1587566243565" />
-    <state width="1431" height="304" key="GridCell.Tab.3.right" timestamp="1587566243566">
+    <state width="1431" height="304" key="GridCell.Tab.3.left/62.0.1474.864@62.0.1474.864" timestamp="1587566462278" />
+    <state width="1431" height="304" key="GridCell.Tab.3.right" timestamp="1587566462278">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="304" key="GridCell.Tab.3.right/62.0.1474.864@62.0.1474.864" timestamp="1587566243566" />
-    <state width="1431" height="304" key="GridCell.Tab.4.bottom" timestamp="1587566243566">
+    <state width="1431" height="304" key="GridCell.Tab.3.right/62.0.1474.864@62.0.1474.864" timestamp="1587566462278" />
+    <state width="1431" height="304" key="GridCell.Tab.4.bottom" timestamp="1587566462278">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="304" key="GridCell.Tab.4.bottom/62.0.1474.864@62.0.1474.864" timestamp="1587566243566" />
-    <state width="1431" height="304" key="GridCell.Tab.4.center" timestamp="1587566243566">
+    <state width="1431" height="304" key="GridCell.Tab.4.bottom/62.0.1474.864@62.0.1474.864" timestamp="1587566462278" />
+    <state width="1431" height="304" key="GridCell.Tab.4.center" timestamp="1587566462278">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="304" key="GridCell.Tab.4.center/62.0.1474.864@62.0.1474.864" timestamp="1587566243566" />
-    <state width="1431" height="304" key="GridCell.Tab.4.left" timestamp="1587566243566">
+    <state width="1431" height="304" key="GridCell.Tab.4.center/62.0.1474.864@62.0.1474.864" timestamp="1587566462278" />
+    <state width="1431" height="304" key="GridCell.Tab.4.left" timestamp="1587566462278">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="304" key="GridCell.Tab.4.left/62.0.1474.864@62.0.1474.864" timestamp="1587566243566" />
-    <state width="1431" height="304" key="GridCell.Tab.4.right" timestamp="1587566243566">
+    <state width="1431" height="304" key="GridCell.Tab.4.left/62.0.1474.864@62.0.1474.864" timestamp="1587566462278" />
+    <state width="1431" height="304" key="GridCell.Tab.4.right" timestamp="1587566462278">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="304" key="GridCell.Tab.4.right/62.0.1474.864@62.0.1474.864" timestamp="1587566243566" />
+    <state width="1431" height="304" key="GridCell.Tab.4.right/62.0.1474.864@62.0.1474.864" timestamp="1587566462278" />
     <state x="392" y="164" key="Rider.ProjectTemplateDialog.Size" timestamp="1587552702799">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="392" y="164" key="Rider.ProjectTemplateDialog.Size/62.0.1474.864@62.0.1474.864" timestamp="1587552702799" />
-    <state x="392" y="165" key="Vcs.Push.Dialog.v2" timestamp="1587561714828">
+    <state x="392" y="165" key="Vcs.Push.Dialog.v2" timestamp="1587566428740">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="392" y="165" key="Vcs.Push.Dialog.v2/62.0.1474.864@62.0.1474.864" timestamp="1587561714828" />
+    <state x="392" y="165" key="Vcs.Push.Dialog.v2/62.0.1474.864@62.0.1474.864" timestamp="1587566428740" />
     <state width="744" height="439" key="XDebugger.FullValuePopup" timestamp="1587555416811">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state width="744" height="439" key="XDebugger.FullValuePopup/62.0.1474.864@62.0.1474.864" timestamp="1587555416811" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Tarefa2/Inventory.cs</url>
-          <line>17</line>
-          <properties documentPath="$PROJECT_DIR$/Tarefa2/Inventory.cs" initialLine="17">
-            <startOffsets>
-              <option value="356" />
-            </startOffsets>
-            <endOffsets>
-              <option value="383" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

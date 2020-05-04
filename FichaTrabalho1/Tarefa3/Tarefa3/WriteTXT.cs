@@ -16,7 +16,7 @@ namespace Tarefa3
             return compLines;
         }
 
-        public static void Write(string[] lines) //Escreve o ficheiro txt na pasta temp (no momento da execução do programa)
+        public static void Write(string[] lines) //Escreve o ficheiro txt na pasta bin (no momento da execução do programa)
         {
             File.WriteAllLines("lines_inverted.txt", InvertOrder(lines));
         }

@@ -1,0 +1,13 @@
+C:\Users\ruips\Desktop\Jetbrains Rider\APAI\2. Trabalhos\APAI-Ex\FichaTrabalho1\Tarefa4\Tarefa4\bin\Debug\netcoreapp3.1\Tarefa4.exe
+C:\Users\ruips\Desktop\Jetbrains Rider\APAI\2. Trabalhos\APAI-Ex\FichaTrabalho1\Tarefa4\Tarefa4\bin\Debug\netcoreapp3.1\Tarefa4.deps.json
+C:\Users\ruips\Desktop\Jetbrains Rider\APAI\2. Trabalhos\APAI-Ex\FichaTrabalho1\Tarefa4\Tarefa4\bin\Debug\netcoreapp3.1\Tarefa4.runtimeconfig.json
+C:\Users\ruips\Desktop\Jetbrains Rider\APAI\2. Trabalhos\APAI-Ex\FichaTrabalho1\Tarefa4\Tarefa4\bin\Debug\netcoreapp3.1\Tarefa4.runtimeconfig.dev.json
+C:\Users\ruips\Desktop\Jetbrains Rider\APAI\2. Trabalhos\APAI-Ex\FichaTrabalho1\Tarefa4\Tarefa4\bin\Debug\netcoreapp3.1\Tarefa4.dll
+C:\Users\ruips\Desktop\Jetbrains Rider\APAI\2. Trabalhos\APAI-Ex\FichaTrabalho1\Tarefa4\Tarefa4\bin\Debug\netcoreapp3.1\Tarefa4.pdb
+C:\Users\ruips\Desktop\Jetbrains Rider\APAI\2. Trabalhos\APAI-Ex\FichaTrabalho1\Tarefa4\Tarefa4\obj\Debug\netcoreapp3.1\Tarefa4.csprojAssemblyReference.cache
+C:\Users\ruips\Desktop\Jetbrains Rider\APAI\2. Trabalhos\APAI-Ex\FichaTrabalho1\Tarefa4\Tarefa4\obj\Debug\netcoreapp3.1\Tarefa4.csproj.CoreCompileInputs.cache
+C:\Users\ruips\Desktop\Jetbrains Rider\APAI\2. Trabalhos\APAI-Ex\FichaTrabalho1\Tarefa4\Tarefa4\obj\Debug\netcoreapp3.1\Tarefa4.AssemblyInfoInputs.cache
+C:\Users\ruips\Desktop\Jetbrains Rider\APAI\2. Trabalhos\APAI-Ex\FichaTrabalho1\Tarefa4\Tarefa4\obj\Debug\netcoreapp3.1\Tarefa4.AssemblyInfo.cs
+C:\Users\ruips\Desktop\Jetbrains Rider\APAI\2. Trabalhos\APAI-Ex\FichaTrabalho1\Tarefa4\Tarefa4\obj\Debug\netcoreapp3.1\Tarefa4.dll
+C:\Users\ruips\Desktop\Jetbrains Rider\APAI\2. Trabalhos\APAI-Ex\FichaTrabalho1\Tarefa4\Tarefa4\obj\Debug\netcoreapp3.1\Tarefa4.pdb
+C:\Users\ruips\Desktop\Jetbrains Rider\APAI\2. Trabalhos\APAI-Ex\FichaTrabalho1\Tarefa4\Tarefa4\obj\Debug\netcoreapp3.1\Tarefa4.genruntimeconfig.cache
